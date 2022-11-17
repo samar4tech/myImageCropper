@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image_Cropper/static/css/main.dcbd0629.css",
+    "main.js": "/image_Cropper/static/js/main.b7bc9d32.js",
+    "index.html": "/image_Cropper/index.html",
+    "main.dcbd0629.css.map": "/image_Cropper/static/css/main.dcbd0629.css.map",
+    "main.b7bc9d32.js.map": "/image_Cropper/static/js/main.b7bc9d32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcbd0629.css",
+    "static/js/main.b7bc9d32.js"
+  ]
+}
